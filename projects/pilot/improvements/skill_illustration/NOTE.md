@@ -6,7 +6,9 @@ This note details a proposed extension to the **Illustration Skill** parameters 
 Equip the illustration agent with an `ArtStyle` parameter to dynamically adjust prompt generation instructions.
 
 ### Style Options to Add:
-1. **Painterly Digital Painting (Default)**: Consistent with the styling rules in [visual_specification.md](../../illustration/visual_specification.md)—using textured wet oil brush strokes, volumetric shading, and warm golden highlights.
+1. **Painterly**:
+   - **Full Color (Default)**: Consistent with the styling rules in [visual_specification.md](../../illustration/visual_specification.md)—using textured wet oil brush strokes, volumetric shading, and warm golden highlights.
+   - **Monochrome**: Renders the painterly textures, brushwork, volume, and lighting in grayscale, using only black ink washes, gray tones, and white highlights (useful for advanced grayscale coloring sheets).
 2. **Coloring Book / Sheet**:
    - **Instruction Set**: Generate clean, crisp, black-and-white vector-style line art outlines.
    - **Styling Rules**: 
