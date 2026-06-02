@@ -14,6 +14,10 @@ Equip the illustration agent with an `ArtStyle` parameter to dynamically adjust 
      - Pure white fill and sharp black outline borders.
      - Simple, clear shapes designed for children to color in.
 3. **Flat Vector Illustration**: Minimal textures, bold solid colors, and geometric simplicity.
+4. **Cartoon / Playful**: Expressive characters, bold outlines, and bright vibrant colors with soft cel-shading.
+5. **Watercolor**: Delicate color washes, organic paper textures, bleeding edges, and translucent overlays mimicking traditional pigments.
+6. **Whimsical & Fantasy**: Dreamy atmospheres, magical glowing elements, soft focal glows, and fairytale-inspired environments.
+7. **Wimmelbuch (Hidden Picture / Busy Book)**: Highly detailed, dense layouts crowded with multiple characters, micro-actions, and interactive environments.
 
 ## Why This Matters
 Adding a "Coloring Book" style option allows creators to automatically output coloring sheet packages accompanying the main picture book, expanding printable activity resources for young learners (Ages 2–5).
