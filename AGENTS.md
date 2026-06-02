@@ -8,8 +8,3 @@ To ensure project portability and clean rendering across different environments,
 *   **Link Verification**: Verify that the targeted file or directory actually exists on the filesystem.
 *   **No Backticks in Link Text**: Keep the link text clean. Avoid formatting link text with backticks (e.g., use `[file.py](path/to/file.py)` instead of `[`file.py`](path/to/file.py)`).
 
-## 2. Automated Check
-Before completing tasks or committing changes, run the repository link validator to ensure all Markdown links are valid and relative:
-```bash
-python3 projects/pilot/scripts/verify_links.py
-```
