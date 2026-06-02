@@ -1,0 +1,11 @@
+{
+  "skill_name": "package",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Package the illustrations located in projects/pilot/illustration/painterly/ to a PDF at projects/pilot/output/test_output.pdf",
+      "expected_output": "PDF file compiled successfully containing the 5 scene illustrations in numerical order.",
+      "files": []
+    }
+  ]
+}

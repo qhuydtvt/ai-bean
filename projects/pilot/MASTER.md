@@ -22,11 +22,14 @@ TBD
 - [x] Create storyboard
   - Storyboard: [STORYBOARD.md](storyboard/STORYBOARD.md)
 - [x] Create illustration
-  - Scene 1: [scene1_cat.png](illustration/scene1_cat.png)
-  - Scene 2: [scene2_dog.png](illustration/scene2_dog.png)
-  - Scene 3: [scene3_mouse.png](illustration/scene3_mouse.png)
-  - Scene 4: [scene4_bird.png](illustration/scene4_bird.png)
-  - Scene 5: [scene5_bedtime.png](illustration/scene5_bedtime.png)
+  - Scene 1: [scene1_cat.png](illustration/painterly/scene1_cat.png)
+  - Scene 2: [scene2_dog.png](illustration/painterly/scene2_dog.png)
+  - Scene 3: [scene3_mouse.png](illustration/painterly/scene3_mouse.png)
+  - Scene 4: [scene4_bird.png](illustration/painterly/scene4_bird.png)
+  - Scene 5: [scene5_bedtime.png](illustration/painterly/scene5_bedtime.png)
   - Specs: [visual_specification.md](illustration/visual_specification.md)
+- [x] Package book to PDF
+  - Script: [generate_pdf.py](scripts/generate_pdf.py)
+  - Output PDF: [shhh_woof.pdf](output/shhh_woof.pdf)
 - [x] Document workflow
   - Report: [WORKFLOW.md](workflow/WORKFLOW.md)

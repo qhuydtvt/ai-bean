@@ -69,6 +69,6 @@ graph TD
 *   **Actions**:
     *   Generated the Spread 1 artwork using a volumetric lighting rendering prompt structure.
     *   Extracted the dominant style elements and colors into [visual_specification.md](../illustration/visual_specification.md) to serve as a visual anchor.
-    *   Generated illustrations for all 5 spreads sequentially, saving them in the [illustration/](../illustration/) folder.
-    *   Performed an adjustment/overwrite to correct a narrative error in Scene 1 (removing a premature toy mouse in [scene1_cat.png](../illustration/scene1_cat.png) to maintain chronological consistency).
+    *   Generated illustrations for all 5 spreads sequentially, saving them in the [painterly/](../illustration/painterly/) folder.
+    *   Performed an adjustment/overwrite to correct a narrative error in Scene 1 (removing a premature toy mouse in [scene1_cat.png](../illustration/painterly/scene1_cat.png) to maintain chronological consistency).
 *   **Skills Used**: **illustration** skill (with the `generate_image` tool).

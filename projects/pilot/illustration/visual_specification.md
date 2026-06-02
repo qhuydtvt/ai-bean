@@ -3,7 +3,7 @@
 This document defines the style, colors, and character designs to maintain visual consistency across all illustrations for the pilot project *Shhh... Woof!*.
 
 ## Base Illustration reference
-- Spread 1 Illustration: [toby_and_quiet_cat.png](toby_and_quiet_cat.png)
+- Spread 1 Illustration: [scene1_cat.png](painterly/scene1_cat.png)
 
 ## 1. Style & Art Direction Constraints
 - **Art Style**: Painterly digital painting mimicking textured wet oil/acrylic brushes.
