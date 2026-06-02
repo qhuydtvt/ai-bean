@@ -20,6 +20,7 @@ Equip the illustration agent with an `ArtStyle` parameter to dynamically adjust 
 5. **Watercolor**: Delicate color washes, organic paper textures, bleeding edges, and translucent overlays mimicking traditional pigments.
 6. **Whimsical & Fantasy**: Dreamy atmospheres, magical glowing elements, soft focal glows, and fairytale-inspired environments.
 7. **Wimmelbuch (Hidden Picture / Busy Book)**: Highly detailed, dense layouts crowded with multiple characters, micro-actions, and interactive environments.
+8. **Mixed Media**: Combines different textures, using collage, cutouts, stamping, or photography mixed with digital art.
 
 ## Why This Matters
 Adding a "Coloring Book" style option allows creators to automatically output coloring sheet packages accompanying the main picture book, expanding printable activity resources for young learners (Ages 2–5).
