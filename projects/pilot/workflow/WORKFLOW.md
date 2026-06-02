@@ -15,6 +15,7 @@ graph TD
     E -->|story-telling skill| F["6. Storyboard Architecture (STORYBOARD.md)"]
     F -->|storyboard skill| G["7. Consistent Scene Illustration"]
     G -->|illustration skill & generate_image| H["8. Final QA & Overwrites"]
+    H -->|package skill| I["9. Package Book to PDF"]
 ```
 
 ---
@@ -72,3 +73,11 @@ graph TD
     *   Generated illustrations for all 5 spreads sequentially, saving them in the [painterly/](../illustration/painterly/) folder.
     *   Performed an adjustment/overwrite to correct a narrative error in Scene 1 (removing a premature toy mouse in [scene1_cat.png](../illustration/painterly/scene1_cat.png) to maintain chronological consistency).
 *   **Skills Used**: **illustration** skill (with the `generate_image` tool).
+
+### Step 8: PDF Book Packaging
+*   **Goal**: Package the compiled illustrations into a single portable PDF document.
+*   **Actions**:
+    *   Authored the [generate_pdf.py](../scripts/generate_pdf.py) packaging script to automate image loading and lossless compilation using the `img2pdf` library.
+    *   Refactored the packaging workflow into a project-level reusable skill: **package** ([SKILL.md](../../.agent/skills/package/SKILL.md)).
+    *   Generated the final compiled book file [shhh_woof.pdf](../output/shhh_woof.pdf).
+*   **Skills Used**: **package** skill.
