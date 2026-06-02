@@ -78,6 +78,6 @@ graph TD
 *   **Goal**: Package the compiled illustrations into a single portable PDF document.
 *   **Actions**:
     *   Authored the [generate_pdf.py](../scripts/generate_pdf.py) packaging script to automate image loading and lossless compilation using the `img2pdf` library.
-    *   Refactored the packaging workflow into a project-level reusable skill: **package** ([SKILL.md](../../.agent/skills/package/SKILL.md)).
+    *   Refactored the packaging workflow into a project-level reusable skill: **package** ([SKILL.md](../../../.agent/skills/package/SKILL.md)).
     *   Generated the final compiled book file [shhh_woof.pdf](../output/shhh_woof.pdf).
 *   **Skills Used**: **package** skill.
